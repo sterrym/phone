@@ -1,0 +1,233 @@
+ISO 3166-1 COUNTRY NAME,INTERNATIONAL DIALING PREFIX (IDD),DIALING COUNTRY CODE,NATIONAL DIALING PREFIX (NDD),ISO 3166-1 COUNTRY CHAR 2 CODE,ISO 3166-1 COUNTRY CHAR 3 CODE
+Afghanistan,00,93,0,AF,AFG
+Albania,00,355,0,AL,ALB
+Algeria,00,213,7,DZ,DZA
+American Samoa,011,1,1,AS,ASM
+Andorra,00,376,None,AD,AND
+Angola,00,244,0,AO,AGO
+Anguilla,011,1,1,AI,AIA
+Antigua and Barbuda,011,1,1,AG,ATG
+Argentina,00,54,0,AR,ARG
+Armenia,00,374,8,AM,ARM
+Aruba,00,297,None,AW,ABW
+Australia,0011,61,0,AU,AUS
+Austria,00,43,0,AT,AUT
+Azerbaijan,810,994,8,AZ,AZE
+Bahamas,011,1,1,BS,BHS
+Bahrain,00,973,None,BH,BHR
+Bangladesh,00,880,0,BD,BGD
+Barbados,011,1,1,BB,BRB
+Belarus,810,375,8,BY,BLR
+Belgium,00,32,0,BE,BEL
+Belize,00,501,0,BZ,BLZ
+Benin,00,229,None,BJ,BEN
+Bermuda,011,1,1,BM,BMU
+Bhutan,00,975,None,BT,BTN
+"Bolivia, Plurinational State Of",0010,591,010,BO,BOL
+Bosnia and Herzegovina,00,387,0,BA,BIH
+Botswana,00,267,None,BW,BWA
+Brazil,0014,55,014,BR,BRA
+Brunei Darussalam,00,673,0,BN,BRN
+Bulgaria,00,359,0,BG,BGR
+Burkina Faso,00,226,None,BF,BFA
+Burundi,00,257,None,BI,BDI
+Cambodia,00,855,0,KH,KHM
+Cameroon,00,237,None,CM,CMR
+Canada,011,1,1,CA,CAN
+Cape Verde,00,238,None,CV,CPV
+Cayman Islands,011,1,1,KY,CYM
+Central African Republic,00,236,None,CF,CAF
+Chad,15,235,None,TD,TCD
+Chile,00,56,0,CL,CHL
+China,00,86,0,CN,CHN
+Christmas Island,0011,618,0,CX,CXR
+Cocos (Keeling) Islands,0011,61,0,CC,CCK
+Colombia,005,57,05,CO,COL
+Comoros,00,269,None,KM,COM
+Congo,00,242,None,CG,COG
+"Congo, The Democratic Republic Of The",00,243,None,CD,COD
+Cook Islands,00,682,00,CK,COK
+Costa Rica,00,506,None,CR,CRI
+Croatia,00,385,0,HR,HRV
+Cuba,119,53,0,CU,CUB
+Cyprus,00,357,None,CY,CYP
+Czech Republic,00,420,None,CZ,CZE
+Côte D'Ivoire,00,225,0,CI,CIV
+Denmark,00,45,None,DK,DNK
+Djibouti,00,253,None,DJ,DJI
+Dominica,011,1,1,DM,DMA
+Dominican Republic,011,1,1,DO,DOM
+Ecuador,00,593,0,EC,ECU
+Egypt,00,20,0,EG,EGY
+El Salvador,00,503,None,SV,SLV
+Equatorial Guinea,00,240,None,GQ,GNQ
+Eritrea,00,291,0,ER,ERI
+Estonia,00,372,None,EE,EST
+Ethiopia,00,251,0,ET,ETH
+Falkland Islands  (Malvinas),00,500,None,FK,FLK
+Faroe Islands,00,298,None,FO,FRO
+Fiji,00,679,None,FJ,FJI
+Finland,00,358,0,FI,FIN
+France,00,33,0,FR,FRA
+French Guiana,00,594,None,GF,GUF
+French Polynesia,00,689,None,PF,PYF
+Gabon,00,241,None,GA,GAB
+Gambia,00,220,None,GM,GMB
+Georgia,810,995,8*,GE,GEO
+Germany,00,49,0,DE,DEU
+Ghana,00,233,None,GH,GHA
+Gibraltar,00,350,None,GI,GIB
+Greece,00,30,None,GR,GRC
+Greenland,009,299,None,GL,GRL
+Grenada,011,1,1,GD,GRD
+Guadeloupe,00,590,None,GP,GLP
+Guam,011,1,1,GU,GUM
+Guatemala,00,502,None,GT,GTM
+Guinea,00,224,None,GN,GIN
+Guinea-Bissau,00,245,None,GW,GNB
+Guyana,00,592,None,GY,GUY
+Haiti,00,509,None,HT,HTI
+Holy See (Vatican City State),00,39,None,VA,VAT
+Honduras,00,504,None,HN,HND
+Hong Kong,001,852,None,HK,HKG
+Hungary,00,36,06,HU,HUN
+Iceland,00,354,0,IS,ISL
+India,00,91,0,IN,IND
+Indonesia,001,62,0,ID,IDN
+"Iran, Islamic Republic Of",00,98,0,IR,IRN
+Iraq,00,964,None,IQ,IRQ
+Ireland,00,353,0,IE,IRL
+Israel,00,972,0,IL,ISR
+Italy,00,39,None,IT,ITA
+Jamaica,011,1,1,JM,JAM
+Japan,010,81,0,JP,JPN
+Jordan,00,962,0,JO,JOR
+Kazakhstan,810,7,8,KZ,KAZ
+Kenya,000,254,0,KE,KEN
+Kiribati,00,686,None,KI,KIR
+"Korea, Democratic People's Republic Of",00,850,0,KP,PRK
+"Korea, Republic of",001,82,0,KR,KOR
+Kuwait,00,965,None,KW,KWT
+Kyrgyzstan,00,996,0,KG,KGZ
+Lao People's Democratic Republic,00,856,0,LA,LAO
+Latvia,00,371,8,LV,LVA
+Lebanon,00,961,0,LB,LBN
+Lesotho,00,266,None,LS,LSO
+Liberia,00,231,22,LR,LBR
+Libyan Arab Jamahiriya,00,218,0,LY,LBY
+Liechtenstein,00,423,None,LI,LIE
+Lithuania,00,370,8,LT,LTU
+Luxembourg,00,352,None,LU,LUX
+Macao,00,853,0,MO,MAC
+"Macedonia, the Former Yugoslav Republic Of",00,389,0,MK,MKD
+Madagascar,00,261,None,MG,MDG
+Malawi,00,265,None,MW,MWI
+Malaysia,00,60,0,MY,MYS
+Maldives,00,960,None,MV,MDV
+Mali,00,223,0,ML,MLI
+Malta,00,356,21,MT,MLT
+Marshall Islands,00,692,1,MH,MHL
+Martinique,00,596,None,MQ,MTQ
+Mauritania,00,222,0,MR,MRT
+Mauritius,020,230,None,MU,MUS
+Mayotte,00,269,None,YT,MYT
+Mexico,00,52,01,MX,MEX
+"Micronesia, Federated States Of",011,691,1,FM,FSM
+"Moldova, Republic of",00,373,0,MD,MDA
+Monaco,00,377,0,MC,MCO
+Mongolia,001,976,0,MN,MNG
+Montenegro,99,382,0,ME,MNE
+Montserrat,011,1,1,MS,MSR
+Morocco,00,212,0,MA,MAR
+Mozambique,00,258,0,MZ,MOZ
+Myanmar,00,95,None,MM,MMR
+Namibia,00,264,0,NA,NAM
+Nauru,00,674,0,NR,NRU
+Nepal,00,977,0,NP,NPL
+Netherlands,00,31,0,NL,NLD
+Netherlands Antilles,00,599,0,AN,ANT
+New Caledonia,00,687,None,NC,NCL
+New Zealand,00,64,0 (None fo,NZ,NZL
+Nicaragua,00,505,None,NI,NIC
+Niger,00,227,0,NE,NER
+Nigeria,009,234,0,NG,NGA
+Niue,00,683,None,NU,NIU
+Norfolk Island,00,672,None,NF,NFK
+Northern Mariana Islands,011,1,1,MP,MNP
+Norway,00,47,None,NO,NOR
+Oman,00,968,None,OM,OMN
+Pakistan,00,92,0,PK,PAK
+Palau,00,680,None,PW,PLW
+"Palestinian Territory, Occupied",00,970,0,PS,PSE
+Panama,00,507,None,PA,PAN
+Papua New Guinea,05,675,None,PG,PNG
+Paraguay,002,595,0,PY,PRY
+Peru,00,51,0,PE,PER
+Philippines,00,63,0,PH,PHL
+Pitcairn,00,872,0,PN,PCN
+Poland,00,48,0,PL,POL
+Portugal,00,351,None,PT,PRT
+Puerto Rico,011,1,1,PR,PRI
+Qatar,00,974,None,QA,QAT
+Romania,00,40,0,RO,ROU
+Russian Federation,810,7,8,RU,RUS
+Rwanda,00,250,0,RW,RWA
+Réunion,00,262,None,RE,REU
+"Saint Helena, Ascension and Tristan Da Cunha",00,290,None,SH,SHN
+Saint Kitts And Nevis,011,1,1,KN,KNA
+Saint Lucia,011,1,1,LC,LCA
+Saint Pierre And Miquelon,00,508,0,PM,SPM
+Saint Vincent And The Grenedines,011,1,1,VC,VCT
+Samoa,00,685,None,WS,WSM
+San Marino,00,378,None,SM,SMR
+Sao Tome and Principe,00,239,0,ST,STP
+Saudi Arabia,00,966,0,SA,SAU
+Senegal,00,221,None,SN,SEN
+Serbia,99,381,0,RS,SRB
+Seychelles,00,248,None,SC,SYC
+Sierra Leone,00,232,0,SL,SLE
+Singapore,001,65,None,SG,SGP
+Slovakia,00,421,0,SK,SVK
+Slovenia,00,386,0,SI,SVN
+Solomon Islands,00,677,None,SB,SLB
+Somalia,00,252,None,SO,SOM
+South Africa,09,27,0,ZA,ZAF
+Spain,00,34,None,ES,ESP
+Sri Lanka,00,94,0,LK,LKA
+Sudan,00,249,0,SD,SDN
+Suriname,00,597,0,SR,SUR
+Svalbard And Jan Mayen,00,47,None,SJ,SJM
+Swaziland,00,268,None,SZ,SWZ
+Sweden,00,46,0,SE,SWE
+Switzerland,00,41,0,CH,CHE
+Syrian Arab Republic,00,963,0,SY,SYR
+"Taiwan, Province Of China",002,886,None,TW,TWN
+Tajikistan,810,992,8,TJ,TJK
+"Tanzania, United Republic of",000,255,0,TZ,TZA
+Thailand,001,66,0,TH,THA
+Timor-Leste,None,670,None,TL,TLS
+Togo,00,228,None,TG,TGO
+Tokelau,00,690,None,TK,TKL
+Tonga,00,676,None,TO,TON
+Trinidad and Tobago,011,1,1,TT,TTO
+Tunisia,00,216,None,TN,TUN
+Turkey,00,90,0,TR,TUR
+Turkmenistan,810,993,8,TM,TKM
+Turks and Caicos Islands,011,1,1,TC,TCA
+Tuvalu,00,688,None,TV,TUV
+Uganda,000,256,0,UG,UGA
+Ukraine,810,380,8,UA,UKR
+United Arab Emirates,00,971,0,AE,ARE
+United Kingdom,00,44,0,GB,GBR
+United States,011,1,1,US,USA
+Uruguay,00,598,0,UY,URY
+Uzbekistan,810,998,8,UZ,UZB
+Vanuatu,00,678,None,VU,VUT
+"Venezuela, Bolivarian Republic of",00,58,0,VE,VEN
+Viet Nam,00,84,0,VN,VNM
+"Virgin Islands, British",011,1,1,VG,VGB
+"Virgin Islands, U.S.",011,1,1,VI,VIR
+Wallis and Futuna,19,681,None,WF,WLF
+Yemen,00,967,0,YE,YEM
+Zambia,00,260,0,ZM,ZMB
+Zimbabwe,00,263,0,ZW,ZWE
